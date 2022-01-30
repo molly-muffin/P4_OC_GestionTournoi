@@ -48,3 +48,6 @@ Les différents réperetoires doivent être télécharger dans un dossier.
 Je me suis familiarisé avec les classes et la programmation orientée objet qui permet de structurer un programme en regroupant des propriétés et des comportements associés dans des objets individuels.
 J'ai également appris à structurer mon code grâce au modèle `MVC` (Models, Views, Controllers).
 Et enfin j'ai pu apprendre la sérialisation de données grâce à TinyDB.
+
+> Laureenda Demeule
+> OpenClassroom 
