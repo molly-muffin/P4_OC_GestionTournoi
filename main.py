@@ -2,6 +2,8 @@ from controllers import main_controller
 
 
 def main():
-	controller = main_controller.MainMenu()
-	controller()
+    controller = main_controller.MainMenu()
+    controller()
+
+
 main()
